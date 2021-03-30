@@ -9,7 +9,7 @@ class GalleryWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return ListTileWidget(
-      text: 'From Gallery',
+      text: 'Fro Gallery',
       icon: Icons.photo,
       onClicked: () => pickGalleryMedia(context),
     );
