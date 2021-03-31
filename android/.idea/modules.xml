@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1526021987/android.cloud_firestore.iml" filepath="$PROJECT_DIR$/.idea/modules/1526021987/android.cloud_firestore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/254813362/android.file_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/254813362/android.file_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-512566560/android.firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/-512566560/android.firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1244258200/android.firebase_core.iml" filepath="$PROJECT_DIR$/.idea/modules/1244258200/android.firebase_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/663288515/android.flutter_plugin_android_lifecycle.iml" filepath="$PROJECT_DIR$/.idea/modules/663288515/android.flutter_plugin_android_lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-726465001/android.google_sign_in.iml" filepath="$PROJECT_DIR$/.idea/modules/-726465001/android.google_sign_in.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-426086292/android.image_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-426086292/android.image_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1972217106/android.permission_handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1972217106/android.permission_handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2059357656/android.video_player.iml" filepath="$PROJECT_DIR$/.idea/modules/2059357656/android.video_player.iml" />
+    </modules>
+  </component>
+</project>
